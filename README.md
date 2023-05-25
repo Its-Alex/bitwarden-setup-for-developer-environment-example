@@ -10,6 +10,15 @@ will automatically load secrets into the environment.
 This approach allows developers to share secrets and use them locally on a
 day-to-day basis.
 
+### Why it matters
+
+1. Increased productivity: When a development environment launches quickly, developers can start working more promptly. This avoids frustrating waiting times and allows developers to focus on the task at hand without interruptions. Increased productivity means projects can be delivered more swiftly.
+1. Reduced errors: Automated development environments ensure that all the required configurations for the project are set up consistently. This prevents human errors associated with manually configuring the environment. Incorrect configuration can lead to bugs or compatibility issues that slow down development. An automated environment reduces these risks by providing a consistent working environment for all developers.
+1. Collaboration ease: When all members of a development team use the same automated development environment, collaboration becomes easier. Each developer has access to the same tools and configurations, facilitating code sharing, issue resolution, and communication. Automated development environments foster a consistent approach to development and enable more efficient collaboration.
+1. Flexibility and scalability: Automated development environments can be easily replicated and expanded as project needs evolve. If new developers join the team or if additional resources are required, the automated environment can be quickly provisioned. This allows for flexibility in scaling the development environment to accommodate changing project requirements.
+
+
+
 ## Requirements
 
 - [`rtx`](https://github.com/jdxcode/rtx)
