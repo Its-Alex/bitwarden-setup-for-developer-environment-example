@@ -92,6 +92,7 @@ direnv: using rtx
 ? Email address: admin@example.com
 ? Master password: [input is hidden] direnv: ([/usr/bin/direnv export zsh]) is taking a while to execute. Use CTRL-C to give up.
 ? Master password: [hidden]
+Syncing complete.
 direnv: export +BW_SESSION +TEST_PASSWORD +TEST_USERNAME
 ```
 
